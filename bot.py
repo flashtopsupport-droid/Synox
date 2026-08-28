@@ -497,7 +497,7 @@ async def error_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     logger.error(f"Error: {context.error}")
 
 def main():
-    BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+    BOT_TOKEN = "8873497929:AAHJbt-XZlkkCfspBiXsKSJo31o_FHqdcFY"
     
     application = Application.builder().token(BOT_TOKEN).build()
     
