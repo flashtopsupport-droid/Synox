@@ -23,7 +23,7 @@ from telegram.ext import (
 
 # ── CONFIGURATION ─────────────────────────────────────────────────────────────
 # HARDcoded token — replace this with your actual token from @BotFather
-BOT_TOKEN = "123456789:ABCdefGHIjklMNOpqrSTUvwxyz"  # <-- YAHAN APN TOKEN DAALO
+BOT_TOKEN = "8873497929:AAHJbt-XZlkkCfspBiXsKSJo31o_FHqdcFY"  # <-- YAHAN APN TOKEN DAALO
 
 C2_BASE_URL = "https://tunnel.zoroxapi.in"
 
